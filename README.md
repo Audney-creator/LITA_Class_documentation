@@ -22,11 +22,14 @@ This is where I documented my first project while learning data analysis with th
 ### Data Analysis 
 ...
 
-
+😆
 ### Data Analysis 
 select * from table1
 where
 
 ### How to insert pictures 
 https://github.com/Audney-creator/LITA_Class_documentation/tree/main
+
 https://github.com/Audney-creator/LITA_Class_documentation/blob/main/Screenshot%20(1).png
+|Heading 1|Heading 2|Heading 3|
+
