@@ -7,10 +7,11 @@ This is where I documented my first project while learning data analysis with th
 
 ### Tools Used
 - Microsoft Excel [download here](https://www.microsoft.com)
-
   1. FOR DATA CLEANING
   2. FOR ANALYSIS
   3. FOR DATA VISUALIZATION
       
 - SQL- sTRUCTURED QUERY LANGUAGE FOR QUERYING OF DATA
-- GITHUB- FOR PORTFOLOI BUILDING 
+- GITHUB- FOR PORTFOLOI BUILDING
+
+### Data Cleaning and preparations 
