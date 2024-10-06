@@ -9,7 +9,7 @@ This is where I documented my first project while learning data analysis with th
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparation)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -37,13 +37,13 @@ The data we used in our Excel class was provided by our instructor, who also rec
 - SQL- STRUCTURED QUERY LANGUAGE FOR QUERYING OF DATA
 - GITHUB- FOR PORTFOLIO BUILDING
 
-### Data Cleaning and preparations 
+### Data Cleaning and Preparations 
 In the initial phase of the data cleaning and preparations, we performed the following actions;
  1. Data entry
  2. Data Validation
  3. Text extraction and cleaning
  4. Lookup
- 5.  Data cleaning and formatting (**CELL REFERENCING**, *PIVOT TABLE* )
+ 5. Data cleaning and formatting such as CELL REFERENCING, PIVOT TABLE
 
 
  
@@ -77,4 +77,3 @@ WHERE CONDITION = TRUE
 |Table!|Table2|Table3|
 |
 
-🥇
