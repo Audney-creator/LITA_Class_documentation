@@ -1,11 +1,15 @@
 # LITA_Class_documentation
 This is where I documented my first project while learning data analysis with the Incubator Hub
-### Project Title: project Analysis
+
+### Project Title: Project Analysis
 ---
+
 ### Project Overview
 In our data analysis class, we learned how to use Excel, covering its fundamentals, basic formulas, data validation, and pivot tables. We also explored shortcuts to streamline our work in Excel with the aim of obtaining results that enable us to make informed decisions based on the data available.
 ---
+
 ### Data Sources 
+The data we used in our Excel class was provided by our instructor, who also recommended websites and communities for sourcing data, such as Kaggle and FRED, where we can download datasets for free and participate in competitions.
 ---
 ### Tools Used
 - Microsoft Excel [download here](https://www.microsoft.com)
