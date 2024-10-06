@@ -43,11 +43,10 @@ In the initial phase of the data cleaning and preparations, we performed the fol
  2. Data Validation
  3. Text extraction and cleaning
  4. Lookup
- 5.  Data cleaning and formatting (CELL REFERENCING, PIVOT TABLE )
+ 5.  Data cleaning and formatting (**CELL REFERENCING**, *PIVOT TABLE* )
 
 
-**hey**
-*hey* 
+ 
 ### Exploratory Data Analysis
 EDA involved the exploring of the data to answer some questions about the data such as ;
 - What is the overall sales trend
@@ -77,3 +76,5 @@ WHERE CONDITION = TRUE
 |---------|---------|---------|
 |Table!|Table2|Table3|
 |
+
+🥇
