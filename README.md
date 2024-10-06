@@ -16,9 +16,9 @@ The data we used in our Excel class was provided by our instructor, who also rec
   1. FOR DATA CLEANING
   2. FOR ANALYSIS
   3. FOR DATA VISUALIZATION
-      
-- SQL- sTRUCTURED QUERY LANGUAGE FOR QUERYING OF DATA
-- GITHUB- FOR PORTFOLOI BUILDING
+          
+- SQL- STRUCTURED QUERY LANGUAGE FOR QUERYING OF DATA
+- GITHUB- FOR PORTFOLIO BUILDING
 
 ### Data Cleaning and preparations 
 
