@@ -3,19 +3,22 @@ This is where I documented my first project while learning data analysis with th
 
 ### Project Title: Project Analysis
 
-Project Overview
+[Project Overview](project-overview)
 
-Data Sources
+[Data Sources](data-sources)
 
-Tools Used
-Data Cleaning and Preparations
-Exploratory Data Analysis
+[Tools Used](tools-used)
 
-Data Analysis
+[Data Cleaning and Preparations](data-cleaning-and-preparation)
 
-Data Visualation
+[Exploratory Data Analysis](exploratory-data-analysis)
 
-Table
+[Data Analysis](data-analysis)
+
+[Data Visualization](data-visualization)
+
+[Table](table)
+
 ---
 
 ### Project Overview
