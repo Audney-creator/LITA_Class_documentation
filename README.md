@@ -65,6 +65,8 @@ WHERE CONDITION = TRUE
 
 ### Data visualization
 
+![excel result](https://github.com/user-attachments/assets/6ce653aa-4a34-42df-a002-bdd3b8bdcfa8)
+
 
 
 
