@@ -47,6 +47,7 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data visualization
+![excel result](https://github.com/user-attachments/assets/42d48784-19a4-4d5c-a529-75b1c73c93d6)
 
 
 
