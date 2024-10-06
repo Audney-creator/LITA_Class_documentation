@@ -2,6 +2,20 @@
 This is where I documented my first project while learning data analysis with the Incubator Hub
 
 ### Project Title: Project Analysis
+
+Project Overview
+
+Data Sources
+
+Tools Used
+Data Cleaning and Preparations
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualation
+
+Table
 ---
 
 ### Project Overview
@@ -53,7 +67,7 @@ WHERE CONDITION = TRUE
 
 
 
-
+### Table
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table!|Table2|Table3|
