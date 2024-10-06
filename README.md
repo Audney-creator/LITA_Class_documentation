@@ -3,7 +3,7 @@ This is where I documented my first project while learning data analysis with th
 
 ### Project Title: Project Analysis
 
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
 [Data Sources](data-sources)
 
