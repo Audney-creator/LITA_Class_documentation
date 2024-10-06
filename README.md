@@ -46,11 +46,11 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
-### How to insert pictures 
-https://github.com/Audney-creator/LITA_Class_documentation/tree/main
+### Data visualization
 
 
-https://github.com/Audney-creator/LITA_Class_documentation/blob/main/Screenshot%20(1).png
+
+
 
 
 |Heading 1|Heading 2|Heading 3|
