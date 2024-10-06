@@ -21,10 +21,21 @@ The data we used in our Excel class was provided by our instructor, who also rec
 - GITHUB- FOR PORTFOLIO BUILDING
 
 ### Data Cleaning and preparations 
+In the initial phase of the data cleaning and preparations, we performed the following actions;
+ 1. Data entry
+ 2. Data Validation
+ 3. Text extraction and cleaning
+ 4. Lookup
+ 5.  Data cleaning and formatting (CELL REFERENCING, PIVOT TABLE )
+
 
 **hey**
 *hey* 
-### Data Analysis 
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as ;
+- What is the overall sales trend
+- Which product are top sellers
+- What are the products on peak sales 
 ...
 
 😆
