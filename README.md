@@ -38,7 +38,7 @@ EDA involved the exploring of the data to answer some questions about the data s
 - What are the products on peak sales 
 ...
 
-😆
+
 ### Data Analysis 
 This is where we include some basic lines of code or queries or even some of the DAX experessions used during our analysis;
 ```SQL
@@ -47,7 +47,7 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data visualization
-![excel result](https://github.com/user-attachments/assets/42d48784-19a4-4d5c-a529-75b1c73c93d6)
+
 
 
 
