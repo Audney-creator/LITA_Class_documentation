@@ -40,8 +40,11 @@ EDA involved the exploring of the data to answer some questions about the data s
 
 😆
 ### Data Analysis 
-select * from table1
-where
+This is where we include some basic lines of code or queries or even some of the DAX experessions used during our analysis;
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
 
 ### How to insert pictures 
 https://github.com/Audney-creator/LITA_Class_documentation/tree/main
