@@ -3,6 +3,7 @@ This is where I documented my first project while learning data analysis with th
 ### Project Title: project Analysis
 ---
 ### Project Overview
+In our data analysis class, we learned how to use Excel, covering its fundamentals, basic formulas, data validation, and pivot tables. We also explored shortcuts to streamline our work in Excel with the aim of obtaining results that enable us to make informed decisions based on the data available.
 ---
 ### Data Sources 
 ---
